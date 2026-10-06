@@ -26,7 +26,8 @@ Visuals should let viewers understand the message without sound, stop them mid-b
 
 ## Dataset
 
-`muted_messages_ads.csv` has 50 ads from Issues 1-5.
+The dataset is available in [`muted_messages_ads.csv`](./muted_messages_ads.csv) (includes 50 ads analyzed across Issues 1–5).
+
 
 | Column | Description |
 |---|---|
